@@ -20,7 +20,7 @@ class HomeScreen extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             SizedBox(
-              height: 15,
+              height: 16,
             ),
             Text(
               'welcome ${_email}',
